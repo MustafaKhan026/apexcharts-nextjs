@@ -25,3 +25,14 @@ body {
     text-wrap: balance;
   }
 }
+.chartsContainer{
+  display: flex;
+  justify-content: space-around;
+  align-items: flex-start;
+  height: 300px;
+  margin-top: 50px;
+}
+.columnChartContainer{
+  width: 100%;
+  height: 300px;
+}
